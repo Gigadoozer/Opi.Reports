@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\Opi.Reports\Opi.Reports.Domain\bin\Debug\net8.0\Opi.Reports.Domain.deps.json
+C:\Users\DELL\Desktop\Opi.Reports\Opi.Reports.Domain\bin\Debug\net8.0\Opi.Reports.Domain.dll
+C:\Users\DELL\Desktop\Opi.Reports\Opi.Reports.Domain\bin\Debug\net8.0\Opi.Reports.Domain.pdb
+C:\Users\DELL\Desktop\Opi.Reports\Opi.Reports.Domain\obj\Debug\net8.0\Opi.Reports.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Opi.Reports\Opi.Reports.Domain\obj\Debug\net8.0\Opi.Reports.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Opi.Reports\Opi.Reports.Domain\obj\Debug\net8.0\Opi.Reports.Domain.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Opi.Reports\Opi.Reports.Domain\obj\Debug\net8.0\Opi.Reports.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Opi.Reports\Opi.Reports.Domain\obj\Debug\net8.0\Opi.Reports.Domain.dll
+C:\Users\DELL\Desktop\Opi.Reports\Opi.Reports.Domain\obj\Debug\net8.0\refint\Opi.Reports.Domain.dll
+C:\Users\DELL\Desktop\Opi.Reports\Opi.Reports.Domain\obj\Debug\net8.0\Opi.Reports.Domain.pdb
+C:\Users\DELL\Desktop\Opi.Reports\Opi.Reports.Domain\obj\Debug\net8.0\ref\Opi.Reports.Domain.dll
