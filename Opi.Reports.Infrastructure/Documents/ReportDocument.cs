@@ -98,6 +98,11 @@ namespace Opi.Reports.Infrastructure.Documents
             });
         }
 
-        static string FormatDecimal(decimal d) => d.ToString("0.##");
+        // Estilo para celdas
+        private static IContainer CellStyle(IContainer container)
+            => container.Padding(4).Border(1).BorderColor(Colors.Grey.Lighten2);
+
+        private static IContainer CellStyleHeader(IContainer container)
+            => container.Padding(4).Border(1).Background(Colors.Grey.Lighten2).BorderColor(Colors.Grey.Darken1);
     }
 }
